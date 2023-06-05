@@ -1,0 +1,12 @@
+.form{
+  left: 40%;
+  top: 30%;
+  position: absolute;
+  border: 1px solid #afc4c0;
+  border-radius: 12px;
+  padding: 5px 35px 50px;
+}
+#login
+{
+  margin-right: 10px;
+}

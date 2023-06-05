@@ -1,0 +1,28 @@
+
+.container
+{
+  padding: 20px 20px;
+}
+
+.counter
+{
+  font-size: 55px;
+}
+
+h4
+{
+  font-size: 24px;
+}
+
+.main h1{
+  color: #9b4228;
+  padding: 10px 50px;
+  text-decoration-line: underline;
+}
+
+.main a:hover{
+  text-decoration-color: #9b4228;
+  text-decoration-line: none;
+
+}
+
